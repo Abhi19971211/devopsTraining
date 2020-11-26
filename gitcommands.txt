@@ -1,0 +1,58 @@
+  119  git clone https://github.com/Abhi19971211/devopsTraining
+  122  git init
+  123  git add -A 
+  124  git clone https://us04web.zoom.us/j/717242462?pwd=ZjZIVlg2K2VySG5FNUZhQjl1TTZpZz09
+  125  git clone https://github.com/Abhi19971211/devopsTraining
+  127  git checkout -b branch1
+  129  git checkout main
+  130  git checkout branch1
+  131  git add file.txt
+  132  git commit -m "branch1 commit"
+  133  git config --global user.email "abhishekraghukumar5@gmail.com"
+  134   git config --global user.name "Abhi19971211"
+  135  git commit -m "branch1 commit"
+  136  git push -u origin branch1
+  137  git push -u origin main 
+  138  git branch -A
+  139  git branch -a
+  141  git add -A
+  142  git add newfile2.txt
+  143  git commit -m "asas"
+  144  git push -u origin branch1
+  145  git branch -b  abc xyz mno
+  146  git branch   abc xyz mno
+  147  git branch   abc 
+  148  git branch   abc
+  149  git branch def ijk 
+  150  git branch def 
+  152  git branch xyz
+  153  git branch lmn
+  154  git checkout -b xyz
+  155  git checkout xyz
+  156  git checkout all
+  157  git checkout 
+  158  git log
+  159  git branch
+  160  git branch iop
+  161  git branch
+  162  git branch -d abc def iop lmn xyz
+  163  git pull
+  164  git branch 
+  165  git fetch
+  166  git branch 
+  167  git fetch
+  168  git branch -a
+  169  git branch 
+  171  git checkout branch3
+  172  git branch
+  173  git brach -a
+  174  git branch -a
+  176  git branch -d branch2
+  177  git checkout main
+  178  git branch -d branch3
+  179  git branch -a
+  180  git push origin --delete branch3
+  181  git branch -a
+  184  hhistory | grep git
+  185  history | grep git
+  186  history | grep git >> gitcommands.txt
